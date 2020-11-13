@@ -1,4 +1,4 @@
-Timestep "B2: Total water depth (m)" "B2: Current speed (m)" "B2: Time (s)"
+Timestep "B2: Total water depth (m)" "B2: Current speed (m/s)" "B2: Time (s)"
 "2100-01-01 00:00:00.000" 0.0 0.0 0.0
 "2100-01-01 00:00:00.500" 0.0 0.0 0.5
 "2100-01-01 00:00:01.000" 0.0 0.0 1.0

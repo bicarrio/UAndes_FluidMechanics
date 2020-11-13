@@ -1,4 +1,4 @@
-Timestep "D1: Total water depth (m)" "D1: Current speed (m)" "D1: Time (s)"
+Timestep "D1: Total water depth (m)" "D1: Current speed (m/s)" "D1: Time (s)"
 "2100-01-01 00:00:00.000" 0.0 0.0 0.0
 "2100-01-01 00:00:00.500" 0.0 0.0 0.5
 "2100-01-01 00:00:01.000" 0.0 0.0 1.0
